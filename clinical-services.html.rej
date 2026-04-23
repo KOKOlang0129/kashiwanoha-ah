@@ -1,0 +1,10 @@
+diff a/clinical-services.html b/clinical-services.html	(rejected hunks)
+@@ -80,7 +80,7 @@
+         <h2 class="p-ttl-01">診療案内</h2>
+         <dl class="c-dl-flex u-padding-m">
+           <dt>診療時間</dt>
+-          <dd><img class="u-w100" src="./img/clinical-services/time_03.png"
++          <dd><img class="u-w100" src="./img/clinical-services/time_04.png"
+               alt="診療時間：午前9:00～12:00、午後14:00～18:00">
+             <p class="u-tar">※△は18:00まで</p>
+           </dd>

@@ -1,0 +1,6 @@
+/news/
+*.exe
+*.cache
+*.dll
+*.log
+*.pdb
