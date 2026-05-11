@@ -8,8 +8,9 @@ body {
 }
 
 a {
-	color: #333333;
-	text-decoration: none;
+	color: #002B6D;
+    text-decoration: underline;
+    text-underline-offset: 0.15em
 }
 
 p:not(:first-child) {

@@ -7,6 +7,13 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>柏の葉動物医療センター｜千葉県柏市の柏の葉T-SITE施設内の動物病院</title>
   <meta name="description" content="千葉県柏市の動物病院なら柏の葉T-SITE施設内の柏の葉動物医療センター。犬猫全ての科目を幅広く対応し、質の高い安心な診療を提供します。">
+  <link rel="canonical" href="https://www.kashiwanoha-ah.com/">
+  <meta property="og:title" content="柏の葉動物医療センター｜千葉県柏市の柏の葉T-SITE施設内の動物病院">
+  <meta property="og:description" content="千葉県柏市の動物病院なら柏の葉T-SITE施設内の柏の葉動物医療センター。犬猫全ての科目を幅広く対応し、質の高い安心な診療を提供します。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.kashiwanoha-ah.com/">
+  <meta property="og:site_name" content="柏の葉動物医療センター">
+  <meta property="og:image" content="https://www.kashiwanoha-ah.com/img/ogp.jpg">
   <link rel="stylesheet" href="css/icomoon-style.css">
   <link rel="stylesheet" href="css/my-reset.css">
   <link rel="stylesheet" href="css/sp-menu.css">
@@ -43,8 +50,10 @@
     <li><a href="access.html">アクセス</a></li>
   </ul>
   <ul class="p-nav-sub">
-    <li class="p-nav-sub-item"><a href="https://www.fanimedic-job.com/">採用情報</a></li>
-    <li class="p-nav-sub-item"><a href="https://www.fanimedic-ah.com/">FAMGグループ</a></li>
+    <li class="p-nav-sub-item"><a href="https://www.fanimedic-job.com/" target="_blank" rel="noopener">採用情報
+        <span class="icon-window-restore1"></span></a></li>
+    <li class="p-nav-sub-item"><a href="https://www.fanimedic-ah.com/" target="_blank" rel="noopener">FAMGグループ
+        <span class="icon-window-restore1"></span></a></li>
   </ul>
   <ul id="menu">
     <li class="current"><a href="./">ホーム</a></li>
@@ -86,7 +95,7 @@
     </section>
   </article>
   <article class="l-wrapper">
-    <section id="top-second" class="l-01">
+    <section class="l-01">
       <h2 class="p-ttl-01">新着情報</h2>
       <?php include(dirname(__FILE__) . '/news/top-umekomi.php'); ?>
     </section>
@@ -137,7 +146,8 @@
             <li class="p-footer-menu-item"><a href="access.html">アクセス</a></li>
           </ul>
           <ul class="p-footer-menu">
-            <li class="p-footer-menu-item"><a href="https://www.fanimedic.com/privacy-policy" target="_blank" rel="noopener">プライバシーポリシー</a></li>
+            <li class="p-footer-menu-item"><a href="https://www.fanimedic.com/privacy-policy" target="_blank" rel="noopener">プライバシーポリシー
+              <span class="icon-window-restore1"></span></a></li>
           </ul>
         </div>
       </div>
